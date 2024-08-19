@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PublicRepoList/static/css/main.6964a63d.css",
+    "main.js": "/PublicRepoList/static/js/main.051084f6.js",
+    "index.html": "/PublicRepoList/index.html",
+    "main.6964a63d.css.map": "/PublicRepoList/static/css/main.6964a63d.css.map",
+    "main.051084f6.js.map": "/PublicRepoList/static/js/main.051084f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6964a63d.css",
+    "static/js/main.051084f6.js"
+  ]
+}
