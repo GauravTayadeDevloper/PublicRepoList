@@ -1,2 +1,0 @@
-# PublicRepoList
-public repository list
